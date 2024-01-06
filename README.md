@@ -1,6 +1,22 @@
-# TabSorter2 - Enhancing your browsing experience 1 click at a time
+# TabSorter2 - Cracked/Unlocked
 >
 <br>
+
+## How to install and use
+
+1. Download the folder
+2. In google chrome open: <chrome://extensions/>
+3. enable developer mode
+4. Click **Load unpacked**
+5. select path of the folder you downloaded
+
+## Cracking video tutorial
+
+
+[![Watch the video](https://i.ytimg.com/vi/N13a4mov3QQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_1o_8jOaOJuaPDXgN_0HWDVsmbg)](https://www.youtube.com/watch?v=N13a4mov3QQ&t=11s)
+
+
+---
 
 Welcome to TabSorter2, the Browser extension that helps you sort, merge, and manage your tabs intuitively.
 
