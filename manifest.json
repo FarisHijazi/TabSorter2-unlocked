@@ -1,0 +1,55 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "__MSG_appName__",
+  "version": "2.0.0",
+  "manifest_version": 3,
+  "description": "__MSG_appDescription__",
+  "offline_enabled": false,
+  "icons": {
+    "16": "images/icon-16.png",
+    "128": "images/icon-128.png"
+  },
+  "default_locale": "en",
+  "background": {
+    "service_worker": "bg-sw.js"
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "system.display"
+  ],
+  "optional_permissions": [
+    "downloads"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "images/icon-48.png",
+        "images/sleepy.json",
+        "images/snoozy_tab.svg",
+        "SpecRunner.html",
+        "scripts/contentScript.js",
+        "background.modular.js",
+        "bifrost.html"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "action": {
+    "default_icon": {
+      "19": "images/icon-19.png",
+      "38": "images/icon-38.png"
+    },
+    "default_title": "tabSorter2",
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "https://publicsuffix.org/*"
+  ]
+}
