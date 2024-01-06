@@ -15,6 +15,13 @@
 
 [![Watch the video](https://i.ytimg.com/vi/N13a4mov3QQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_1o_8jOaOJuaPDXgN_0HWDVsmbg)](https://www.youtube.com/watch?v=N13a4mov3QQ&t=11s)
 
+## Message to the developer
+
+Subscriptions for frontend code are unacceptable, I'll be happy to pay for a proper SaaS with a backend, I'm also happy to pay a one time payment for a piece of code that runs on my frontend.
+
+But this is just being cheap..
+
+![](https://ih1.redbubble.net/image.766090717.2879/raf,360x360,075,t,fafafa:ca443f4786.jpg)
 
 ---
 
